@@ -1,0 +1,3 @@
+
+# Ubuntu with Chinese Locale 
+
