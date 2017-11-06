@@ -5,7 +5,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update \
     && apt-get install -y \
         locales \
-        wajig software-properties-common \
+        wajig software-properties-common apt-transport-https \
     && apt-get autoremove -y \
     && apt-get autoclean -y
 
