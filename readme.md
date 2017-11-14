@@ -1,5 +1,5 @@
 
-# dclong/ubuntu_cn
+# [dclong/ubuntu_cn](https://hub.docker.com/r/dclong/ubuntu_cn/)
 
 Ubuntu with Chinese Locale.
 
