@@ -10,5 +10,7 @@ Ubuntu with Chinese Locale.
 ## Usage 
 
 ```
-docker run -it ubuntu_cn
+docker run -it \
+    --log-opt max-size=50m \
+    ubuntu_cn
 ```
