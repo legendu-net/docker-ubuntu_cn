@@ -1,4 +1,4 @@
-FROM dclong/ubuntu_b
+FROM dclong/base
 
 # locale
 RUN apt-get update \
