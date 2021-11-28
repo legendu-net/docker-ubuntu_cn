@@ -1,4 +1,6 @@
+# NAME: dclong/ubuntu_cn
 FROM dclong/base
+# GIT: https://github.com/dclong/docker-base.git
 
 # locale
 RUN apt-get update \
